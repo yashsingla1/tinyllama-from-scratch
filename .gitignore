@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Trained model artifacts
+*.pt
+*.pth
+*.safetensors
+
+# Tokenized data files
+*.bin
+
+# Notebooks scratch state
+.ipynb_checkpoints/
