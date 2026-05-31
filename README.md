@@ -2,7 +2,7 @@
 
 A from-scratch Llama-style transformer trained on TinyStoriesInstruct. Implements RMSNorm, RoPE, SwiGLU, and Grouped-Query Attention. Generates short children's stories from structured prompts.
 
-**🚀 Live demo:** [huggingface.co/spaces/Yasho1/story-generator](https://huggingface.co/spaces/Yasho1/story-generator)
+**🚀 Live demo:** [huggingface.co/spaces/yashsingla1/story-generator](https://huggingface.co/spaces/yashsingla1/yashsingla1)
 
 ---
 
